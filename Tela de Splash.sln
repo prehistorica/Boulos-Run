@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tela de Splash", "Tela de Splash.csproj", "{79578281-F3F6-4FC0-A380-08EE583BF56F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79578281-F3F6-4FC0-A380-08EE583BF56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79578281-F3F6-4FC0-A380-08EE583BF56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79578281-F3F6-4FC0-A380-08EE583BF56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79578281-F3F6-4FC0-A380-08EE583BF56F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB88371-DF4D-43DE-9BE6-CAE7ED7AD0F9}
+	EndGlobalSection
+EndGlobal

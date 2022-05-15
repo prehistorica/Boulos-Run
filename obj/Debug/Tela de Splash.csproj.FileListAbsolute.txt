@@ -1,0 +1,12 @@
+D:\Visual Studio\Tela de Splash\bin\Debug\Tela de Splash.exe.config
+D:\Visual Studio\Tela de Splash\bin\Debug\Tela de Splash.exe
+D:\Visual Studio\Tela de Splash\bin\Debug\Tela de Splash.pdb
+D:\Visual Studio\Tela de Splash\obj\Debug\Tela de Splash.csprojAssemblyReference.cache
+D:\Visual Studio\Tela de Splash\obj\Debug\Tela_de_Splash.Form1.resources
+D:\Visual Studio\Tela de Splash\obj\Debug\Tela_de_Splash.Properties.Resources.resources
+D:\Visual Studio\Tela de Splash\obj\Debug\Tela de Splash.csproj.GenerateResource.cache
+D:\Visual Studio\Tela de Splash\obj\Debug\Tela de Splash.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Tela de Splash\obj\Debug\Tela de Splash.exe
+D:\Visual Studio\Tela de Splash\obj\Debug\Tela de Splash.pdb
+D:\Visual Studio\Tela de Splash\obj\Debug\Tela_de_Splash.frmPrincipal.resources
+D:\Visual Studio\Tela de Splash\obj\Debug\Tela_de_Splash.frmEntrar.resources
